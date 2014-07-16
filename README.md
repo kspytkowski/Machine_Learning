@@ -1,0 +1,1 @@
+Machine Learning is a course led by Andrew Ng (Stanford University). You can find this course on www.coursera.com. This repository holds solved exercises provided throughout the course, but only the code placed in "YOUR CODE HERE" sections is my own work.
